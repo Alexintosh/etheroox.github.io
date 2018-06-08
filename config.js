@@ -27,7 +27,7 @@ module.exports = {
   etherscanAPIKey: 'SCYVG55I4EYS4JJ82NYMV87MGDGVNNZJ49',
   tokens: [
     { addr: '0x0000000000000000000000000000000000000000', name: 'ETH', decimals: 18 },
-    { addr: ' 0xC14b3688295a89c58DbA9B01c6fb037d39e030EA', name: 'WLM', decimals: 8 },
+    { addr: '0xC14b3688295a89c58DbA9B01c6fb037d39e030EA', name: 'WLM', decimals: 8 },
     { addr: '0xaf30d2a7e90d7dc361c8c4585e9bb7d2f6f15bc7', name: '1ST', decimals: 18 },
     { addr: '0x936f78b9852d12f5cb93177c1f84fb8513d06263', name: 'GNTW', decimals: 18 },
     { addr: '0x01afc37f4f85babc47c0e2d0eababc7fb49793c8', name: 'GNTM', decimals: 18 },
@@ -151,9 +151,9 @@ module.exports = {
     { addr: '0x7c5a0ce9267ed19b22f8cae653f198e3e8daf098', name: 'SAN', decimals: 18 },
     { addr: '0xf8e386eda857484f5a12e4b5daa9984e06e73705', name: 'IND', decimals: 18 },
   ],
-  defaultPair: { token: 'PLU', base: 'ETH' },
+  defaultPair: { token: 'WLM', base: 'ETH' },
   pairs: [
-    { token: 'PLU', base: 'ETH' },
+    { token: 'WLM', base: 'ETH' },
     { token: '1ST', base: 'ETH' },
     { token: 'EDG', base: 'ETH' },
     { token: 'ARC', base: 'ETH' },
