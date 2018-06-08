@@ -27,7 +27,7 @@ module.exports = {
   etherscanAPIKey: 'SCYVG55I4EYS4JJ82NYMV87MGDGVNNZJ49',
   tokens: [
     { addr: '0x0000000000000000000000000000000000000000', name: 'ETH', decimals: 18 },
-    { addr: '0xd8912c10681d8b21fd3742244f44658dba12264e', name: 'PLU', decimals: 18 },
+    { addr: ' 0xC14b3688295a89c58DbA9B01c6fb037d39e030EA', name: 'WLM', decimals: 8 },
     { addr: '0xaf30d2a7e90d7dc361c8c4585e9bb7d2f6f15bc7', name: '1ST', decimals: 18 },
     { addr: '0x936f78b9852d12f5cb93177c1f84fb8513d06263', name: 'GNTW', decimals: 18 },
     { addr: '0x01afc37f4f85babc47c0e2d0eababc7fb49793c8', name: 'GNTM', decimals: 18 },
